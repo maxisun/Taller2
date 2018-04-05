@@ -3,4 +3,11 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="unoxuno">#4db6ac</color>
+    <color name="unoxdos">#43a047</color>
+    <color name="dosxuno">#283593</color>
+    <color name="dosxdos">#ab47bc</color>
+    <color name="tresxuno">#ff8a80</color>
+    <color name="tresxdos">#c51169</color>
+    <color name="colorletras">#ffffff</color>
 </resources>
