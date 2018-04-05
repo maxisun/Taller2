@@ -14,10 +14,16 @@
             android:layout_marginRight="4dp"
             android:layout_marginBottom="4dp"
             android:orientation="vertical"
-            android:layout_width="match_parent"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1">
 
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Configuration"
+                android:textColor="@color/colorletras"/>
 
 
         </LinearLayout>
@@ -27,9 +33,16 @@
             android:layout_marginLeft="4dp"
             android:layout_marginBottom="4dp"
             android:orientation="vertical"
-            android:layout_width="match_parent"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Profile"
+                android:textColor="@color/colorletras"/>
 
         </LinearLayout>
 
@@ -43,10 +56,16 @@
             android:layout_marginRight="4dp"
             android:layout_marginBottom="4dp"
             android:orientation="vertical"
-            android:layout_width="match_parent"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1">
 
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Favourites"
+                android:textColor="@color/colorletras"/>
 
 
         </LinearLayout>
@@ -57,9 +76,16 @@
             android:layout_marginLeft="4dp"
             android:layout_marginBottom="4dp"
             android:orientation="vertical"
-            android:layout_width="match_parent"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Incomes"
+                android:textColor="@color/colorletras"/>
 
         </LinearLayout>
 
@@ -72,10 +98,16 @@
             android:layout_marginTop="4dp"
             android:layout_marginRight="4dp"
             android:orientation="vertical"
-            android:layout_width="match_parent"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1">
 
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Budget"
+                android:textColor="@color/colorletras"/>
 
 
         </LinearLayout>
@@ -85,9 +117,16 @@
             android:layout_marginTop="4dp"
             android:layout_marginLeft="4dp"
             android:orientation="vertical"
-            android:layout_width="match_parent"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Expenses"
+                android:textColor="@color/colorletras"/>
 
         </LinearLayout>
 
