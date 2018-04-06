@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Taller2</string>
+    <string name="app_name" translatable="false">AppLife</string>
+    <string name="configuration">Configuration</string>
+    <string name="profile">Profile</string>
+    <string name="budget">Budget</string>
+    <string name="favourites">Favourites</string>
+    <string name="incomes">Incomes</string>
+    <string name="expenses">Expenses</string>
 </resources>

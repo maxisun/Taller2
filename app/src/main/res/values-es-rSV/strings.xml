@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taller2</string>
+    <string name="configuration">Configuracion</string>
+    <string name="profile">Perfil</string>
+    <string name="budget">Presupuesto</string>
+    <string name="favourites">Favoritos</string>
+    <string name="incomes">Ingresos</string>
+    <string name="expenses">Egreso</string>
+</resources>

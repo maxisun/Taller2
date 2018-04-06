@@ -23,14 +23,14 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:src="@drawable/ajustes"
+            android:src="@drawable/settings"
             android:layout_weight="1"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Configuration"
+            android:text="@string/configuration"
             android:textColor="@color/colorletras"/>
 
     </LinearLayout>
@@ -51,14 +51,14 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:src="@drawable/usuer"
+            android:src="@drawable/perfil"
             android:layout_weight="1"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Profile"
+            android:text="@string/profile"
             android:textColor="@color/colorletras"/>
 
     </LinearLayout>
@@ -78,14 +78,14 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:src="@drawable/calculadora"
+            android:src="@drawable/calcu"
             android:layout_weight="1"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Budget"
+            android:text="@string/budget"
             android:textColor="@color/colorletras"/>
 
     </LinearLayout>
@@ -112,7 +112,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Favourites"
+            android:text="@string/favourites"
             android:textColor="@color/colorletras"/>
 
     </LinearLayout>
@@ -133,14 +133,14 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:src="@drawable/bolsadinero"
+            android:src="@drawable/ingresos"
             android:layout_weight="1"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Incomes"
+            android:text="@string/incomes"
             android:textColor="@color/colorletras"/>
 
     </LinearLayout>
@@ -160,14 +160,14 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:src="@drawable/billeter"
+            android:src="@drawable/cartera"
             android:layout_weight="1"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Expenses"
+            android:text="@string/expenses"
             android:textColor="@color/colorletras"/>
 
     </LinearLayout>
